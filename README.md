@@ -13,7 +13,7 @@ deliverables: "1 HTML file, 1 CSS file"
 - Write the CSS selectors described below and add the requested properties.
 - Double check that it matches the included screenshot.
 - **Do NOT change the HTML.**
-- *Run it through Markbot and make sure it passes all the checks.*
+- *Run it through Mark bot and make sure it passes all the checks.*
 
 ---
 
@@ -50,7 +50,7 @@ deliverables: "1 HTML file, 1 CSS file"
 15. Select every 3rd `li` inside `.types`
   — add `background-color: #d04b16;`
 
----
+
 
 ## Goal
 
@@ -58,8 +58,8 @@ Visually match the images in the “screenshots” folder.
 
 - Final screenshots in the “screenshots” folder.
 
----
+
 
 ## Hand in
 
-Drop this folder into your Markbot application. Make sure to fix all the errors. And submit for grades using Markbot.
+Drop this folder into your Mark bot application. Make sure to fix all the errors. And submit for grades using Mar kbot.
